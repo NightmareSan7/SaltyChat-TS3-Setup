@@ -15,13 +15,15 @@ The `Setup_TS3_SaltyChat.bat` script automates the installation and configuratio
 ## Usage
 
 1. Download the `Setup_TS3_SaltyChat.bat` file.
-2. Open the `Setup_TS3_SaltyChat.bat` file.
-3. Install everything required. Make sure to checkmark "Open TS3 after Installation".
-4. Done.
+2. Make Adjustments to config part, if not using the most recent Version.
+3. Open the `Setup_TS3_SaltyChat.bat` file.
+4. Install everything required. Make sure to checkmark "Open TS3 after Installation".
+5. Done.
 
 The script will handle the rest, ensuring that the correct versions of Teamspeak and SaltyChat are installed and configured.
 
 ## Why should you use this?
+
 - Easy to use
 - Installs everything required for you
 - Detects if you need DNS and sets it for Saltychat only, making the internet faster for many users --> Setting Google DNS can lead to longer loading times for your internet.
@@ -37,6 +39,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [SaltyChat](https://gaming.v10networks.com/saltychat)
 - [Teamspeak](https://www.teamspeak.com/)
+
+## Bugs and Feedback
+
+If you encounter any bugs or have suggestions for improvement, please report them by opening an issue in the [GitHub repository](https://github.com/YourRepository/SaltyChat-TS3-Setup/issues). Your feedback is invaluable and will help enhance the functionality and user experience of the script.
 
 ## Author
 
